@@ -1,0 +1,39 @@
+Elapsed time GD: 0.5482251
+Elapsed time Momentum: 0.1107250999999998
+Elapsed time NAG: 0.0693071999999999
+
+Elapsed time GD: 0.553347
+Elapsed time Momentum: 0.20411469999999987
+Elapsed time NAG: 0.07988220000000013
+
+Elapsed time GD: 0.5959285
+Elapsed time Momentum: 0.1335959
+Elapsed time NAG: 0.07584830000000009
+
+Elapsed time GD: 0.5420041
+Elapsed time Momentum: 0.11046240000000007
+Elapsed time NAG: 0.07396190000000002
+
+Elapsed time GD: 0.5926431
+Elapsed time Momentum: 0.11723679999999992
+Elapsed time NAG: 0.06792259999999994
+
+Elapsed time GD: 0.7824403999999999
+Elapsed time Momentum: 0.13359280000000018
+Elapsed time NAG: 0.08160970000000001
+
+Elapsed time GD: 0.6050592000000001
+Elapsed time Momentum: 0.1423357999999999
+Elapsed time NAG: 0.18425219999999998
+
+Elapsed time GD: 0.6434143000000001
+Elapsed time Momentum: 0.12748340000000002
+Elapsed time NAG: 0.0755846
+
+Elapsed time GD: 0.6932235999999999
+Elapsed time Momentum: 0.12914270000000005
+Elapsed time NAG: 0.08115910000000004
+
+Elapsed time GD: 0.5733672999999999
+Elapsed time Momentum: 0.19005720000000004
+Elapsed time NAG: 0.07408539999999997
